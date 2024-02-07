@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     int i,j;
-    printf("Multiplication table from 1 to 5:\n\n");
+    printf("Multiplication table from 1 to 10:\n\n");
 
     for(i=1;i<=10;i++)
     {
