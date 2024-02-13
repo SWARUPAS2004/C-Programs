@@ -2,9 +2,16 @@
 C is a general-purpose, procedural, high-level programming language.
 C is one of the most widely used programming languages.
 The main features of the C language include: General Purpose and Portable ,Low-level Memory Access ,Fast Speed,Clean Syntax.
+
+
+
 Below I have Written a basic review of all the programs:-
 1)Vowel or Consonant-This C program determines whether a given character is a vowel or a consonant.It checks the input character against the set of vowels (A, E, I, O, U) and provides the corresponding output.
+
+
 2)Even-Odd number -This C program checks whether a given number is even or odd. It uses the modulo operator to determine if the input number is divisible by 2. If the remainder is zero, the number is even; otherwise, it is odd.
+
+
 3)Inverted half  pyramid- This C program generates an inverted half pyramid pattern using asterisks (*). The user specifies the number of rows, and the program prints a pyramid with decreasing width.
 4)Positive-Negative Program-This C program determines whether a given number is positive or negative. It checks if the input number is greater than, equal to, or less than zero to determine its sign and provides the appropriate output.
 5)Prime Number Program- This C program checks whether a given number is a prime number. It verifies if the input number is divisible by any number other than 1 and itself. If not, it is considered a prime number.
