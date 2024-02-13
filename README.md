@@ -26,7 +26,7 @@ Below I have Written a basic review of all the programs:-
 15)Triangle Program- This C program generates an equilateral triangle pattern using asterisks (*). The user specifies the number of rows, and the program prints a triangle with a constant width.
 
 16) Factorial Program- This C program calculates the factorial of a given non-negative integer. It uses a loop to multiply the numbers from 1 to the given integer to compute the factorial.
-17) 
+ 
 17)Half Pyramid Program-This C program generates a half pyramid pattern using asterisks (*). The user specifies the number of rows, and the program prints a pyramid with increasing width.
 
 18)Sum Digits Program- This C program calculates the sum of the digits of a given positive integer. It uses a loop and modulo operation to extract individual digits and adds them to find the sum.
