@@ -14,3 +14,6 @@ int main(){
     return 0;
 
 }
+// Input the string :Programming
+// THe character of the string are: 
+// P  r  o  g  r  a  m  m  i  n  g
